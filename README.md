@@ -8,7 +8,7 @@
   <p>
     <img src="https://img.shields.io/badge/Next.js-13-black?style=flat-square&logo=next.js" alt="Next.js"/>
     <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
+<!--     <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/> -->
   </p>
 </div>
 
