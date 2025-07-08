@@ -121,3 +121,5 @@ next-env.d.ts
 *.ppt*
 logs.json
 ^tmp*
+*.zip
+*.7z
